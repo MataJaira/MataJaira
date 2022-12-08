@@ -1,5 +1,7 @@
 ### Heeellllooooyyyy :woozy_face: 
 
+### Experienced
+<img src="https://img.shields.io/badge/Photoshop-6495ED?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF"/>
 
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-CD5C5C?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/@MataJaira/)
