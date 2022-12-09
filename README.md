@@ -2,6 +2,7 @@
 
 ### Studying
 <img src="https://img.shields.io/badge/HTML-DF9F77?style=for-the-badge&logo=HTML5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CSS-6D93CA?style=for-the-badge&logo=CSS3&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-BA9245?style=for-the-badge&logo=Python&logoColor=FFFFFF"/>
 
 ### Experienced
 <img src="https://img.shields.io/badge/Photoshop-6495ED?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/After Effects-9966CC?style=for-the-badge&logo=Adobe After Effects&logoColor=FFFFFF"/>
