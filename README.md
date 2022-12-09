@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Python-BA9245?style=for-the-badge&logo=Python&logoColor=FFFFFF"/>
 
 ### Experienced
-<img src="https://img.shields.io/badge/Photoshop-6495ED?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/After Effects-9966CC?style=for-the-badge&logo=Adobe After Effects&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Photoshop-6495ED?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Illustrator-BF593B?style=for-the-badge&logo=Adobe Illustrator&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/After Effects-9966CC?style=for-the-badge&logo=Adobe After Effects&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Audition-8978CE?style=for-the-badge&logo=Adobe Audition&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Fl Studio-D37D5A?style=for-the-badge&logo=SparkFun&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Reaper-56AE60?style=for-the-badge&logo=Framework7&logoColor=FFFFFF"/>
