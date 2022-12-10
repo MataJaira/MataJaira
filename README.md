@@ -1,6 +1,6 @@
 ### Heeellllooooyyyy :woozy_face: 
 
-### About me
+### - About me
 - Im Mata Jaira ( abbreviated Mata Jr )
 - I'm into music and remixes 音MAD
 - I also play games, but very rarely because now I'm only into music
